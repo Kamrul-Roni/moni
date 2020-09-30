@@ -1,0 +1,86 @@
+*{margin:20p; padding:0;}
+body{font-size:18px; font-family: arial;line-height:25px ;}
+main {width:660px; margin:auto; background:#ddd ;}.headTitle h2 {background: 3b5998;}
+
+.headTitle {
+
+    background: #3b5998;color: white;
+    overflow: hidden;
+    padding: 5px 3px
+}
+.headTitle h2{float: left; margin-top: 20px;}
+
+.headTitle a{float: right; color: whitesmoke; text-decoration: none;}
+
+
+
+.headTitle a {
+    background: orange;
+    border: ridge;
+    
+}
+.loginBox { margin: 15px; line-height:30px; overflow: hidden; }
+.loginBox input{width: 100%; padding: 15px;}
+.loginBox strong{font-size: 16px;}
+input#loginButton {
+    background: #3b5998;color: white;
+    margin-top: 15px;
+    font-weight: bold;
+}
+input#loginButton:hover{background: red; cursor: pointer;}
+
+.headTitle:hover{background: palegreen;}
+.headTitle a:hover{ background: rgb(43, 29, 243);}
+.bose:hover{background: darkturquoise;}
+#ss:hover{background: greenyellow;}
+.jjj {
+    background: #3b5898;
+    width: 660px;
+    margin: auto;
+    margin-bottom: 7px; color: white;
+}
+.jjj:hover {background: rgb(255, 251, 19);}
+.footer {
+    height: 55px;
+}
+
+.headTitle {
+    height: 55px;
+}
+.bose {
+    background: #3b5898;
+}
+
+a#ss {
+    float: left;
+}
+
+a#ss {
+    float: right;
+    margin-bottom: -64px;
+}
+
+.bose {
+    overflow: hidden;
+    color: white;
+    margin: auto;
+}
+
+a#ss {
+    margin: 0 auto;
+    text-decoration: none;
+    color: white;
+    padding-right: 3px;
+    border: ridge;
+    background: red;
+    margin-top: 4px;
+    margin-right: 3px;
+}
+
+
+
+h3#gg {
+    width: 200px;
+    float: left;
+}
+
